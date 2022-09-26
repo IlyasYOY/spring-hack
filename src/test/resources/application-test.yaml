@@ -1,0 +1,12 @@
+personnel:
+  employees:
+    - Ilia
+    - Peter
+    - Jim
+    - Bob
+  teams:
+    - name: Super Cool
+      involved-employees:
+        - Ilia
+        - Peter
+        - Jim
